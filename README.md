@@ -1,3 +1,3 @@
-# 1er dépôt de Steve
+# Premier dépôt de Steve
 mon premier dépôt
 nouveau paragraphe
